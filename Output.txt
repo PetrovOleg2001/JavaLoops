@@ -1,0 +1,17 @@
+Все разработчики в команде: (при помощи цикла foreach)
+Developer [name=Andrew, language=JavaScript, salary=15000.0, experience=5]
+Developer [name=Alexander, language=Python, salary=11000.0, experience=3]
+Developer [name=Oleg, language=Java, salary=17000.0, experience=7]
+Developer [name=Maxim, language=CSharp, salary=14000.0, experience=4]
+
+Введите имя разработчика: Maxim
+Все разработчики с именем Maxim:  (при помощи цикла for)
+Developer [name=Maxim, language=CSharp, salary=14000.0, experience=4]
+
+Введите максимальную зарплату разработчика: 13000
+Все разработчики с зарплатой меньше 13000.0:  (при помощи цикла while)
+Developer [name=Alexander, language=Python, salary=11000.0, experience=3]
+
+Введите опыт разработчика:5
+Все разработчики с опытом больше 5.0:  (при помощи цикла do while)
+Developer [name=Oleg, language=Java, salary=17000.0, experience=7]
